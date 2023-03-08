@@ -1,0 +1,35 @@
+#header{
+    background-color: aqua;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 50px;
+}
+
+#parte1{
+    float: left;
+    width: 30%;
+    margin: 0 5%;
+    background-color: beige;
+}
+
+#parte2{
+    float: left;
+    width: 20%;
+    margin: 0 2% 0 0;
+    background-color: rgb(207, 178, 235);
+}
+
+#parte3{
+    float: left;
+    width: 20%;
+    margin: 0 2% 0 0;
+    background-color: rgb(240, 207, 164);
+}
+
+#footer{
+    clear: both;
+    text-align: center;
+}

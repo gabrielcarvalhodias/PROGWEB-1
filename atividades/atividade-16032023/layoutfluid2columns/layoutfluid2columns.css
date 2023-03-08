@@ -1,0 +1,38 @@
+#header{
+    margin: 0 auto;
+    background-color: pink;
+    overflow: hidden;
+    width: 100%;
+}
+
+#header ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+#header ul li{
+    color: white;
+    border: 1px solid white;
+    padding: 1px;
+    margin: .25em;
+}
+
+#green{
+    float: left;
+    width: 45%;
+    margin: 0 2.5%;
+    background-color: rgb(71, 216, 71);
+}
+
+#brown{
+    float: left;
+    width: 35%;
+    margin: 0 2.5% 0 0;
+    background-color: rgb(197, 83, 83);
+}
+
+#footer{
+    clear: left;
+    text-align: center;
+}
